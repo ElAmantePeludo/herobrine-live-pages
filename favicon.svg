@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="HHI">
+  <rect width="64" height="64" rx="8" fill="#050705"/>
+  <rect x="8" y="8" width="48" height="48" rx="4" fill="#142013"/>
+  <rect x="14" y="14" width="10" height="10" fill="#263524"/>
+  <rect x="40" y="14" width="10" height="10" fill="#0b120b"/>
+  <rect x="16" y="29" width="10" height="8" fill="#f4f8ef"/>
+  <rect x="38" y="29" width="10" height="8" fill="#f4f8ef"/>
+  <rect x="12" y="44" width="40" height="8" fill="#090d09"/>
+</svg>

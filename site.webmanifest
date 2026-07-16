@@ -1,0 +1,16 @@
+{
+  "name": "Herobrine Horror Immersion",
+  "short_name": "HHI",
+  "description": "Terror atmosférico para Minecraft con apariciones distantes y una presencia que observa desde el bosque.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050705",
+  "theme_color": "#070907",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml"
+    }
+  ]
+}
